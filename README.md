@@ -2,6 +2,8 @@
 
 Dashboard Link: https://lookerstudio.google.com/s/rI7rcIYqqqw
 
+
+
 Transform raw advertising data from three major platforms into actionable insights through a unified data model and compelling visualizations
 
 Data : Raw advertising data from three platforms - Facebook, Google, and TikTok
